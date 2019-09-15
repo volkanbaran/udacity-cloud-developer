@@ -23,18 +23,25 @@ import {filterImageFromURL, deleteLocalFiles} from './util/util';
 
 Follow the process described in the course to `eb init` a new application and `eb create` a new environment to deploy your image-filter service! Don't forget you can use `eb deploy` to push changes.
 
-## Stand Out (Optional)
+## Stand Out (Optional) - NOT IMPLEMENTED
 
-### Refactor the course RESTapi
+### Refactor the course RESTapi - NOT IMPLEMENTED
 
 If you're feeling up to it, refactor the course RESTapi to make a request to your newly provisioned image server.
 
-### Authentication
+### Authentication - NOT IMPLEMENTED
 
 Prevent requests without valid authentication headers.
 > !!NOTE if you choose to submit this, make sure to add the token to the postman collection and export the postman collection file to your submission so we can review!
 
-### Custom Domain Name
+### Custom Domain Name - NOT IMPLEMENTED
 
 Add your own domain name and have it point to the running services (try adding a subdomain name to point to the processing server)
 > !NOTE: Domain names are not included in AWS’ free tier and will incur a cost.
+
+
+## Documents
+Spec Document
+https://github.com/volkanbaran/udacity-cloud-developer/blob/dev/project-2/image-filter-starter-code/Udagram-%20Your%20Own%20Instagram%20on%20AWS%20%20-%20Project%20Spec.docx
+
+
