@@ -41,3 +41,7 @@ Add your own domain name and have it point to the running services (try adding a
 
 
 ## Documents
+Spec Document
+https://github.com/volkanbaran/udacity-cloud-developer/blob/dev/project-2/image-filter-starter-code/Udagram-%20Your%20Own%20Instagram%20on%20AWS%20%20-%20Project%20Spec.docx
+
+
