@@ -37,6 +37,6 @@ For deploying images to k8s cluster run  `kubectl apply -f FILENAME` for config 
 
 ## Documents
 Spec Document
-
+https://github.com/volkanbaran/udacity-cloud-developer/blob/dev/project-3/refactor-to-microservice/refactor-to-microservice%20-%20Project%20Spec.docx
 
 
