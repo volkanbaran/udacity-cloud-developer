@@ -22,12 +22,6 @@ For runnig application open a new terminal within the project directory and run:
 2. Push images to docker hub `docker-compose -f docker-compose-build.yaml push`  
 3. Run containers `docker-compose up`
 
-You'll need to create a new node server. Open a new terminal within the project directory and run:
-
-1. Initialize a new project: `npm i`
-2. run the development server with `npm run dev`
-
-
 ## Deploying your system
 
 K8s cluster create on aws: https://github.com/kubermatic/kubeone/blob/master/docs/quickstart-aws.md
